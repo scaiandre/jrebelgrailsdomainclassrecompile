@@ -1,5 +1,5 @@
 # jrebelgrailsdomainclassrecompile
-https://github.com/scaiandre/jrebelgrailsdomainclassrecompile
+Source code available here: https://github.com/scaiandre/jrebelgrailsdomainclassrecompile
 
 * grails create-app domclasstest
 * grails create-domain-class Book
